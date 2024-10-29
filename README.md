@@ -20,16 +20,15 @@ I’m a full-stack developer from Morocco. I mix creativity and technology to ma
 
 ---
 
-### Connect with me  
 
-<p align="center">
-  <a href="www.linkedin.com/in/zakaria-azizi-v1">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/DevZakariaAz">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/zakaria-azizi-v1)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevZakariaAz)  
+[![Google Dev](https://img.shields.io/badge/Google%20Dev-%234B8B3B.svg?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/zakaria-azizi)
+
+---
+
+This will include your Google Dev profile in the list.
 
 ### Languages and Tools
 
