@@ -28,8 +28,6 @@ I’m a full-stack developer from Morocco. I mix creativity and technology to ma
 
 ---
 
-This will include your Google Dev profile in the list.
-
 ### Languages and Tools
 
 <p align="center">
