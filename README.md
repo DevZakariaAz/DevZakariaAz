@@ -16,7 +16,9 @@ I’m a full-stack developer from Morocco. I mix creativity and technology to ma
   
 - 💬 Ask me about PHP, Laravel, or Android development
   
-- 📫 Reach me at [zakaria.azizi.v1@gmail.com](mailto:zakaria.azizi.v1@gmail.com)  
+- 📫 Reach me at [zakaria.azizi.v1@gmail.com](mailto:zakaria.azizi.v1@gmail.com)
+
+- 💼 Check out my portfolio at <a href="https://devzakariaaz.github.io/Potfolio/">Zakaria's Portfolio</a>
 
 ---
 
