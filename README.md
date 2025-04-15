@@ -1,54 +1,76 @@
+# Hi there 👋, I'm Zakaria Azizi!
+
+🌍 **Full Stack & Mobile Developer | Creative Thinker**  
+Welcome to my GitHub profile! I build scalable, clean, and user-focused web and mobile applications. I’m passionate about solving real-world problems, bringing ideas to life, and continuously learning new technologies to deliver impactful digital solutions.
 
 ---
 
-<h3 align="center"> Hi 👋, I'm Zakaria Azizi  </h3>
-<h4 align="center">
-I’m a full-stack developer from Morocco. I mix creativity and technology to make cool apps. I enjoy learning new things and improving my skills. Let’s connect and build something great together!
+## 🔭 Current Projects
 
-
-</h4>
-
-- 🌍 Based in Morocco, Tanger
-
-- 🔭 Currently working on a Real Estate website using Laravel
- 
-- 🌱 Learning advanced WordPress, Java and Kotlin for Android development
-  
-- 💬 Ask me about PHP, Laravel, or Android development
-  
-- 📫 Reach me at [zakaria.azizi.v1@gmail.com](mailto:zakaria.azizi.v1@gmail.com)
-
-- 💼 Check out my portfolio at <a href="https://devzakariaaz.github.io/Potfolio/">Zakaria's Portfolio</a>
+- **I’m currently working on**:  
+    [SOLI LMS](https://github.com/DevZakariaAz/Projet_fil_rouge_v1) – A Learning Management System designed to enhance the education ecosystem by streamlining processes for learners, educators, and administrators.
+    
 
 ---
 
+## 🌱 Continuous Learning
 
-### Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/zakaria-azizi-v1)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevZakariaAz)  
-[![Google Dev](https://img.shields.io/badge/Google%20Dev-%234B8B3B.svg?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/zakaria-azizi)
+- **Currently diving deeper into**:
+    
+    - React Native for cross-platform mobile app development
+        
+    - Jetpack Compose & Kotlin for Android
+        
+    - Laravel advanced features (Roles & Permissions, Eloquent ORM)
+        
+    - UI/UX principles and design systems
+        
 
 ---
 
-### Languages and Tools
+## 💬 Let’s Collaborate
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
-</p>
+I’m open to teaming up or exchanging ideas about:
 
+- Mobile development with React Native
+    
+- Laravel & PHP best practices
+    
+- Frontend technologies like Vue.js & Tailwind CSS
+    
+- Database design and optimization
+    
+- Agile workflows and real-world project collaboration
+    
 
+Let’s build something awesome together!
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages**: PHP, JavaScript, HTML, CSS, Kotlin, Dart (basics)
+    
+- **Frameworks & Libraries**: Laravel, Vue.js, React Native, Tailwind CSS, Bootstrap
+    
+- **Mobile Development**: React Native, Jetpack Compose (Kotlin), Flutter (basics)
+    
+- **Databases**: MySQL, SQL
+    
+- **Dev Tools**: Git, VS Code, Figma, Android Studio, MySQL Workbench
+    
+- **Methodologies**: Agile, Scrum, Design Thinking
+    
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 **Portfolio**: [Portfolio](https://devzakariaaz.github.io/Potfolio/)
+
+- 📧 **Email**: [Zakaria.Azizi.v1@gmail.com](mailto:zakaria.azizi.v1@gmail.com)
+    
+- 💼 **LinkedIn**: [Zakaria Azizi](https://www.linkedin.com/in/zakaria-azizi-v1/)
+    
+- 🐙 **GitHub**: [@DevZakariaAz](https://github.com/DevZakariaAz)
+    
