@@ -49,13 +49,13 @@ Let’s build something awesome together!
 
 ## 🛠️ Technical Skills
 
-- **Languages**: PHP, JavaScript, HTML, CSS, Kotlin, Dart (basics)
+- **Languages**: PHP, JavaScript, HTML, CSS, Kotlin
     
-- **Frameworks & Libraries**: Laravel, Vue.js, React Native, Tailwind CSS, Bootstrap
+- **Frameworks & Libraries**: Laravel, Vue.js, React Native, Tailwind CSS, Bootstrap , Shadcn Ui , Jquery 
     
-- **Mobile Development**: React Native, Jetpack Compose (Kotlin), Flutter (basics)
+- **Mobile Development**: React Native, Jetpack Compose (Kotlin)
     
-- **Databases**: MySQL, SQL
+- **Databases**: MySQL, SQL , NoSql
     
 - **Dev Tools**: Git, VS Code, Figma, Android Studio, MySQL Workbench
     
