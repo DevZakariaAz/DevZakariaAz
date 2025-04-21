@@ -66,7 +66,7 @@ Let’s build something awesome together!
 
 ## 📫 Let's Connect
 
-- 🌐 **Portfolio**: [Portfolio](https://devzakariaaz.github.io/Potfolio/)
+- 🌐 **Portfolio**: [Portfolio](https://zakarai-azizi.vercel.app/)
 
 - 📧 **Email**: [Zakaria.Azizi.v1@gmail.com](mailto:zakaria.azizi.v1@gmail.com)
     
